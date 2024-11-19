@@ -1,2 +1,5 @@
 # Ignorar todos os arquivos .fa (arquivos FASTA)
 *.fa
+*subst_rna.txt
+le_teste
+le_teste.cpp

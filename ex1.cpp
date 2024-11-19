@@ -68,12 +68,14 @@ int main(int argc, char** argv) {
         "chr21.subst.fa", "chr22.subst.fa"
     };
 
+    // Nº de arquivos por processo
     int numFiles = fastaFiles.size();
     int filesPerProcess = (numFiles + size - 1) / size;
 
     BaseCounts localCounts;
     BaseCounts globalCounts = {0, 0, 0, 0};
 
+    // Arquivos que cada processo processará
     int start = rank * filesPerProcess;
     int end = min(start + filesPerProcess, numFiles);
 
