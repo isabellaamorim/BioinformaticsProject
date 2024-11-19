@@ -1,0 +1,68 @@
+[INFO] Processo 6 iniciado com 8 processos no total.
+[INFO] Processo 6 processará arquivos de 18 até 20
+[INFO] Processo 3 iniciado com 8 processos no total.
+[INFO] Processo 3 processará arquivos de 9 até 11
+[INFO] Processo 2 iniciado com 8 processos no total.
+[INFO] Processo 2 processará arquivos de 6 até 8
+[INFO] Processo 5 iniciado com 8 processos no total.
+[INFO] Processo 5 processará arquivos de 15 até 17
+[INFO] Processo 7 iniciado com 8 processos no total.
+[INFO] Processo 7 processará arquivos de 21 até 21
+[INFO] Processo 0 iniciado com 8 processos no total.
+[INFO] Processo 0 processará arquivos de 0 até 2
+[INFO] Processo 1 iniciado com 8 processos no total.
+[INFO] Processo 1 processará arquivos de 3 até 5
+[INFO] Processo 4 iniciado com 8 processos no total.
+[INFO] Processo 4 processará arquivos de 12 até 14
+[INFO] Arquivo chr22.subst_rna.txt lido com sucesso pelo processo 7
+[INFO] Arquivo chr19.subst_rna.txt lido com sucesso pelo processo 6
+[INFO] Arquivo chr16.subst_rna.txt lido com sucesso pelo processo 5
+[INFO] Arquivo chr13.subst_rna.txt lido com sucesso pelo processo 4
+[INFO] Arquivo chr10.subst_rna.txt lido com sucesso pelo processo 3
+[INFO] Arquivo chr7.subst_rna.txt lido com sucesso pelo processo 2
+[INFO] Arquivo chr4.subst_rna.txt lido com sucesso pelo processo 1
+[INFO] Arquivo chr1.subst_rna.txt lido com sucesso pelo processo 0
+[INFO] RNA traduzido do arquivo chr22.subst_rna.txt pelo processo 7
+[INFO] RNA traduzido do arquivo chr19.subst_rna.txt pelo processo 6
+[INFO] Arquivo chr20.subst_rna.txt lido com sucesso pelo processo 6
+[INFO] RNA traduzido do arquivo chr16.subst_rna.txt pelo processo 5
+[INFO] Arquivo chr17.subst_rna.txt lido com sucesso pelo processo 5
+[INFO] RNA traduzido do arquivo chr13.subst_rna.txt pelo processo 4
+[INFO] Arquivo chr14.subst_rna.txt lido com sucesso pelo processo 4
+[INFO] RNA traduzido do arquivo chr20.subst_rna.txt pelo processo 6
+[INFO] Arquivo chr21.subst_rna.txt lido com sucesso pelo processo 6
+[INFO] RNA traduzido do arquivo chr10.subst_rna.txt pelo processo 3
+[INFO] Arquivo chr11.subst_rna.txt lido com sucesso pelo processo 3
+[INFO] RNA traduzido do arquivo chr21.subst_rna.txt pelo processo 6
+[INFO] RNA traduzido do arquivo chr7.subst_rna.txt pelo processo 2
+[INFO] Arquivo chr8.subst_rna.txt lido com sucesso pelo processo 2
+[INFO] RNA traduzido do arquivo chr17.subst_rna.txt pelo processo 5
+[INFO] Arquivo chr18.subst_rna.txt lido com sucesso pelo processo 5
+[INFO] RNA traduzido do arquivo chr14.subst_rna.txt pelo processo 4
+[INFO] Arquivo chr15.subst_rna.txt lido com sucesso pelo processo 4
+[INFO] RNA traduzido do arquivo chr4.subst_rna.txt pelo processo 1
+[INFO] Arquivo chr5.subst_rna.txt lido com sucesso pelo processo 1
+[INFO] RNA traduzido do arquivo chr1.subst_rna.txt pelo processo 0
+[INFO] Arquivo chr2.subst_rna.txt lido com sucesso pelo processo 0
+[INFO] RNA traduzido do arquivo chr18.subst_rna.txt pelo processo 5
+[INFO] RNA traduzido do arquivo chr15.subst_rna.txt pelo processo 4
+[INFO] RNA traduzido do arquivo chr11.subst_rna.txt pelo processo 3
+[INFO] Arquivo chr12.subst_rna.txt lido com sucesso pelo processo 3
+[INFO] RNA traduzido do arquivo chr8.subst_rna.txt pelo processo 2
+[INFO] Arquivo chr9.subst_rna.txt lido com sucesso pelo processo 2
+[INFO] RNA traduzido do arquivo chr5.subst_rna.txt pelo processo 1
+[INFO] Arquivo chr6.subst_rna.txt lido com sucesso pelo processo 1
+[INFO] RNA traduzido do arquivo chr12.subst_rna.txt pelo processo 3
+[INFO] RNA traduzido do arquivo chr9.subst_rna.txt pelo processo 2
+[INFO] RNA traduzido do arquivo chr2.subst_rna.txt pelo processo 0
+[INFO] Arquivo chr3.subst_rna.txt lido com sucesso pelo processo 0
+[INFO] RNA traduzido do arquivo chr6.subst_rna.txt pelo processo 1
+[INFO] RNA traduzido do arquivo chr3.subst_rna.txt pelo processo 0
+[INFO] Processo 4 finalizado.
+[INFO] Processo 6 finalizado.
+[INFO] Processo 3 finalizado.
+[INFO] Processo 1 finalizado.
+[INFO] Processo 2 finalizado.
+[INFO] Processo 5 finalizado.
+[INFO] Processo 7 finalizado.
+[INFO] Processo 0 finalizado.
